@@ -10,7 +10,7 @@ import {
 import { useEffect } from "react";
 import { Curve, Ready } from "@/components";
 
-export default function services() {
+export default function Services() {
 	useEffect(() => {
 		(async () => {
 			const LocomotiveScroll = (await import("locomotive-scroll")).default;
