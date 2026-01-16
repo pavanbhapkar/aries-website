@@ -62,8 +62,8 @@ export const footernavbarItems = [
    },
    {
       id: 3,
-      title: "Our work",
-      href: "presentation",
+      title: "FAQs",
+      href: "/about#faq",
    },
    {
       id: 4,
@@ -72,8 +72,8 @@ export const footernavbarItems = [
    },
    {
       id: 6,
-      title: "Contact us",
-      href: "contact",
+      title: "Join the Waitlist",
+      href: "/contact",
    },
 ];
 
