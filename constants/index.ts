@@ -872,100 +872,70 @@ export const aboutPartberItems = [
 export const FaqItems = [
    {
       id: 1,
-      question: "How many iterations the project includes?",
+      question: "What is ARIES?",
       title: "Description",
-      description: "We’re committed to delighting every one of our clients and will do everything to deliver on the project fully. We iterate as much as needed to ensure the best result.",
+      description: "ARIES is a Pune-based aerospace hardware startup focused on developing reliable, modular flight computer systems for student, research, and experimental aerospace applications.",
       links: [
-         {
-            id: 1,
-            title: 1,
-            description: "Based on our experience and ways of working, no more than three revisions are needed to meet clients’ expectations and business needs."
-         },
-         {
-            id: 2,
-            title: 2,
-            description: "If your project is something we are not capable of doing, we will say it right there and won’t commit. Instead, we will refer you to specialists in any field you need and we might know."
-         },
+         
       ],
       button: "read"
    },
    {
       id: 2,
-      question: "Do you animate presentations?",
+      question: "What is a flight computer?",
       title: "Description",
-      description: "Movement is what attracts the eye. But not every presentation requires animation, although we do agree that animated presentations give a wow effect. We surely add transitions and animation to your presentation where we think it increases engagement, surprise, or simply delivers the message flawlessly.",
+      description: "A flight computer is the central control system of a flying vehicle. It collects sensor data, processes it in real time, runs control logic, and manages communication and system behavior during flight.",
       links: [
-         {
-            id: 1,
-            title: 1,
-            description: "By the way, animated presentations can also be used for marketing purposes to promote your ideas via socials."
-         },
+         
       ],
       button: "read"
    },
    {
       id: 3,
-      question: "Do you join forces with other agencies?",
+      question: "Who is ARIES built for?",
       title: "Description",
-      description: "Yes, we do partner with other creative agencies where we lack expertise or experience. We carefully select our partners and frequently collaborate on brand identity, web design, animation design, and other fine initiatives that benefit both us and our clients. All with the purpose to expand our creative POV and supplementing you with top-notch work.",
+      description: "ARIES is built for: ",
       links: [
          {
             id: 1,
             title: 1,
-            description: "By the way, animated presentations can also be used for marketing purposes to promote your ideas via socials."
+            description: "Student rocketry, drone, UAV teams along with university research labs and academic clubs. "
+         },
+         {
+            id: 2,
+            title: 2,
+            description: "Experimental aerospace and embedded systems developers"
          },
       ],
       button: "read"
    },
    {
       id: 4,
-      question: "I want to become a part of the team! Do you hire?",
+      question: "What makes ARIES different from existing solutions?",
       title: "Description",
-      description: "Yes! We actively search for talent to join us in completing high-stake presentation design projects at OCHI. As a presentation agency, we always aim to create the best services and services possible. Hence, we are looking for someone who will enjoy helping us fuse design and thinking into something impactful and beautiful.",
+      description: "Most existing systems are either low-cost hobby boards with limited reliability or high-cost aerospace avionics that are inaccessible to students. ARIES bridges this gap by offering a modular, reliable, and scalable platform optimized for rapid testing and iteration.",
       links: [
-         {
-            id: 1,
-            title: 1,
-            description: "If you feel like you’re on top of your creative game, whether it’s storytelling, graphic design, or animation. Send us the CV and portfolio at Ihor@ochi.design with “CREATE AND THRILL” in the subject. We will get back to you and maybe schedule a call. If there’s a potential fit here, you will meet the team. If that goes well – you’ll become a part of it."
-         },
-         {
-            id: 2,
-            title: 2,
-            description: "If you think you can improve our processes, marketing, PR, and communications, or you excel at managing people, we would love to hear from you. Send your message to hello@ochi.design with “-” and we will get back to you."
-         },
+         
       ],
       button: "read"
    },
    {
       id: 5,
-      question: "Can I hire you for publish speaking, or student workshop?",
+      question: "What does “modular” mean in ARIES?",
       title: "Description",
-      description: "The short answer is yes.",
+      description: "Modularity means sensors and interface modules can be plugged in and removed directly without complex wiring. This reduces integration time, minimizes wiring errors, and allows users to adapt the system as mission requirements evolve.",
       links: [
-         {
-            id: 1,
-            title: 1,
-            description: "Through our work, we empower brands to make a difference. But while, the presentations that raise millions help in the long run by providing resources for organizations to evolve, create new workplaces, and make things better. We also offer our corporate clients personal training. We love visiting traditional university students to share insights and expertise through masterclasses and workshops. This is how we make things better by teaching others how to make better things. And this changes the world here and now."
-         },
-         {
-            id: 2,
-            title: 2,
-            description: "If you have an event coming or you are a university academic, please reach out to us with the topic, and we will see how we can help."
-         },
+        
       ],
       button: "read"
    },
    {
       id: 6,
-      question: "Would you like to jump on a podcast or YouTube video?",
+      question: "Is ARIES suitable for beginners?",
       title: "Description",
-      description: "Yes, why not. It’s a great chance to give back to the creative community by sharing and learning. Especially if the audience is relevant to the communication design subject. Or maybe it helps our clients in some way. We can’t know until we see some details, so drop us a line with a brief explanation at kseniia@ochi.design with the “Podcast/YT Proposal”.",
+      description: "Yes. ARIES is designed to lower the barrier to entry for students while still being robust enough for advanced experimentation. Clear documentation and modular design make it beginner-friendly without sacrificing reliability.",
       links: [
-         {
-            id: 1,
-            title: 1,
-            description: "By the way, animated presentations can also be used for marketing purposes to promote your ideas via socials."
-         },
+         
       ],
       button: "read"
    },

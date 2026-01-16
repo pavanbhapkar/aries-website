@@ -47,14 +47,14 @@ export default function Hero() {
 				</p>
 
 				<p className="mt-[10px] paragraph font-NeueMontreal text-secondry opacity-60">
-					Product launch coming soon.
+					Product unveiling coming soon
 				</p>
 
 				{/* COUNTDOWN */}
 				<div className="mt-[60px] border-t border-[#21212155] pt-[40px]">
 					<div className="flex items-center gap-[15px] mb-[25px] flex-wrap">
 	<p className="paragraph font-NeueMontreal text-secondry">
-		Launch countdown
+		Unveil countdown
 	</p>
 	<span className="paragraph font-NeueMontreal text-secondry opacity-50">
 		• {LAUNCH_DATE_STRING}

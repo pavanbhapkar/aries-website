@@ -25,7 +25,7 @@ export default function Footer() {
 					{/* SOCIAL ICONS */}
 <div className="mt-[40px] flex gap-[25px]">
 	<Link
-		href="https://instagram.com"
+		href="https://www.instagram.com/aries.hq/"
 		target="_blank"
 		className="transition-all duration-300 hover:-translate-y-1 hover:opacity-80"
 	>
@@ -33,7 +33,7 @@ export default function Footer() {
 	</Link>
 
 	<Link
-		href="https://X.com"
+		href="https://x.com/ariesaerotech"
 		target="_blank"
 		className="transition-all duration-300 hover:-translate-y-1 hover:opacity-80"
 	>
@@ -41,7 +41,7 @@ export default function Footer() {
 	</Link>
 
 	<Link
-		href="https://linkedin.com"
+		href="https://www.linkedin.com/company/ariesaerotech"
 		target="_blank"
 		className="transition-all duration-300 hover:-translate-y-1 hover:opacity-80"
 	>
