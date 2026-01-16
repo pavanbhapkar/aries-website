@@ -80,7 +80,6 @@ export default function Form() {
 					<input
 						type="tel"
 						name="phone"
-						required
 						placeholder="+1   555 123 4567 (optional)"
 						className="paragraph w-full font-NeueMontreal font-normal text-secondry bg-background border-b border-[#21212155] focus:border-secondry outline-none mt-[10px]"
 					/>
@@ -93,7 +92,6 @@ export default function Form() {
 					</h2>
 					<textarea
 						name="description"
-						required
 						rows={1}
 						placeholder="  Tell us what you're looking for... (optional)"
 						className="paragraph w-full font-NeueMontreal font-normal text-secondry bg-background border-b border-[#21212155] focus:border-secondry outline-none mt-[1px] resize-none"
