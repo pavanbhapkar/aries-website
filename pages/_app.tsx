@@ -1,6 +1,7 @@
 import "@/styles/globals.css";
 import { Footer, Navbar } from "@/components";
 import { AnimatePresence } from "framer-motion";
+import { Analytics } from "@vercel/analytics/next"
 
 export default function App({
 	Component,
